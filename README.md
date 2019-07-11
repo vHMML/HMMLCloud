@@ -15,3 +15,7 @@ HMML Cloud provides a long-term preservation model for external projects short o
 [HMML Cloud Metadata Manual for HMML Cloud Database](https://docs.google.com/document/d/15DyU4pfApaxksr6xMGQdUZms36bzlDPae51QaplloRA/edit?usp=sharing)
 
 [HMML Cloud Schema](https://docs.google.com/spreadsheets/d/11rG-2eRj99do-Oe5A6V-a73eNcb6bNSi68gONsZJPXo/edit?usp=sharing)
+
+[SAMPLE - vHMML Muslim Names and Uniform Titles](https://docs.google.com/spreadsheets/d/149wT1deY1sgunYJGJufeOnvTewxf2VqlfXGjjPQ9DC4/edit?usp=sharing)
+
+[SAMPLE - vHMML Eastern Christian Name Authority List](https://docs.google.com/spreadsheets/d/1ZMTsz7f7rYignsaeDJtoPdX4863xVZN3ns_iplZUmwU/edit?usp=sharing)
