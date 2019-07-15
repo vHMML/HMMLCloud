@@ -1,6 +1,6 @@
 # HMML Cloud
 
-HMML Cloud is a IIIF hosting service developed by the Hill Museum & Manuscript Library that also can include a simple application that allows digitization and cataloging projects to make their collections visible and searchable to the public.
+[HMML Cloud](https://www.hmmlcloud.org/) is a IIIF hosting service developed by the Hill Museum & Manuscript Library that also can include a simple application that allows digitization and cataloging projects to make their collections visible and searchable to the public.
 
 HMML Cloud draws on the software expertise and cataloging methods used to operate vHMML Reading Room. HMML Cloud’s database uses simplified best practices for cataloging along with HMML's digital preservation system for images to create an "out of the box" online catalog for digitized manuscripts where users can add/edit records and view these collections.
 
