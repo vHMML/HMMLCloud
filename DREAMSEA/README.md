@@ -16,3 +16,7 @@ Digital Repository of Endangered and Affected Manuscripts in Southeast Asia (DRE
 [SAMPLE - vHMML Muslim Names and Uniform Titles](https://docs.google.com/spreadsheets/d/149wT1deY1sgunYJGJufeOnvTewxf2VqlfXGjjPQ9DC4/edit?usp=sharing)
 
 [SAMPLE - vHMML Eastern Christian Name Authority List](https://docs.google.com/spreadsheets/d/1ZMTsz7f7rYignsaeDJtoPdX4863xVZN3ns_iplZUmwU/edit?usp=sharing)
+
+[VIDEO - Introduction to DREAMSEA - General Online Search/Catalog](https://youtu.be/eOEYRf9t6TE)
+
+[VIDEO - Introduction to DREAMSEA - Admin Add, Edit Metadata](https://youtu.be/eOEYRf9t6TE)
