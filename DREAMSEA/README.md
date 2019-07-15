@@ -19,4 +19,4 @@ Digital Repository of Endangered and Affected Manuscripts in Southeast Asia (DRE
 
 [VIDEO - Introduction to DREAMSEA - General Online Search/Catalog](https://youtu.be/eOEYRf9t6TE)
 
-[VIDEO - Introduction to DREAMSEA - Admin Add, Edit Metadata](https://youtu.be/eOEYRf9t6TE)
+[VIDEO - Introduction to DREAMSEA - Admin Add, Edit Metadata](https://youtu.be/Qlhal-okcng)
