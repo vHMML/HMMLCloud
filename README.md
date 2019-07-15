@@ -19,5 +19,3 @@ HMML Cloud provides a long-term preservation model for external projects short o
 [SAMPLE - vHMML Muslim Names and Uniform Titles](https://docs.google.com/spreadsheets/d/149wT1deY1sgunYJGJufeOnvTewxf2VqlfXGjjPQ9DC4/edit?usp=sharing)
 
 [SAMPLE - vHMML Eastern Christian Name Authority List](https://docs.google.com/spreadsheets/d/1ZMTsz7f7rYignsaeDJtoPdX4863xVZN3ns_iplZUmwU/edit?usp=sharing)
-
-[VIDEO - Introduction to Catalog](https://youtu.be/eOEYRf9t6TE)
