@@ -18,6 +18,8 @@ Digital Repository of Endangered and Affected Manuscripts in Southeast Asia ([DR
 [HMML Cloud Schema](https://docs.google.com/spreadsheets/d/11rG-2eRj99do-Oe5A6V-a73eNcb6bNSi68gONsZJPXo/edit?usp=sharing)
 <br>Schema for the HMML Cloud database with sample data
 
+[SAMPLE - Basic metadata sheet] (https://docs.google.com/spreadsheets/d/1-2s5z97kZKccns3MsuR1XgIL2U6B3d3L7lTnT9U_4I0/edit?usp=sharing)
+
 [SAMPLE - vHMML Muslim Names and Uniform Titles](https://docs.google.com/spreadsheets/d/149wT1deY1sgunYJGJufeOnvTewxf2VqlfXGjjPQ9DC4/edit?usp=sharing)
 <br>Sample authority names and titles for Muslim names and title
 
