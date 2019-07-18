@@ -19,7 +19,7 @@ Digital Repository of Endangered and Affected Manuscripts in Southeast Asia ([DR
 <br>Schema for the HMML Cloud database with sample data
 
 [HMML Basic Metadata Sheet](https://docs.google.com/spreadsheets/d/1-2s5z97kZKccns3MsuR1XgIL2U6B3d3L7lTnT9U_4I0/edit?usp=sharing)
-<br>Basic Google sheet that can be used as a model for sending basic metadata to HMML for import
+<br>Google sheet that can be used as a model for sending basic metadata to HMML for import
 
 [SAMPLE - vHMML Muslim Names and Uniform Titles](https://docs.google.com/spreadsheets/d/149wT1deY1sgunYJGJufeOnvTewxf2VqlfXGjjPQ9DC4/edit?usp=sharing)
 <br>Sample authority names and titles for Muslim names and title
