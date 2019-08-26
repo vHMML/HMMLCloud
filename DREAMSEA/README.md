@@ -33,5 +33,5 @@ Digital Repository of Endangered and Affected Manuscripts in Southeast Asia ([DR
 [VIDEO - Introduction to DREAMSEA - General Online Search/Catalog](https://youtu.be/eOEYRf9t6TE)
 <br>Video introduction about the online search catlog
 
-[VIDEO - Introduction to DREAMSEA - Admin Add, Edit Metadata](https://youtu.be/Qlhal-okcng)
+[VIDEO - Introduction to DREAMSEA - Admin Add, Edit Metadata](https://youtu.be/QIhal-okcng)
 <br>Video introduction about how to add and edit metadata for a record
